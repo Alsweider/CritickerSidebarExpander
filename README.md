@@ -1,7 +1,7 @@
 # CritickerSidebarExpander
 Userscript to expand the sidebar on film / game pages on Criticker.com to reveal the IMDb link.
 
-Download latest release: [Github](https://github.com/Alsweider/CritickerSidebarExpander/releases/latest) | [Greasyfork](https://greasyfork.org/de/scripts/517626-fix-show-another-film-position) | 
+Download latest release: [Github](https://github.com/Alsweider/CritickerSidebarExpander/releases/latest) | [Greasyfork](https://greasyfork.org/de/scripts/530038-criticker-sidebar-expander) | 
 [Gist](https://gist.github.com/Alsweider/af18f38c110f19ae7141b37248a1e625)
 
 Please note that it may be necessary to enable developer mode in Chrome browsers to run userscripts: https://www.tampermonkey.net/faq.php?locale=en#Q209
