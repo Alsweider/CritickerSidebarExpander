@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Criticker Sidebar Expander
 // @namespace    http://tampermonkey.net/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Expands the sidebar on film / game pages on Criticker.com to reveal the IMDb link
 // @author       Alsweider
 // @match        https://www.criticker.com/film/*
+// @match        https://www.criticker.com/tv/*
 // @match        https://games.criticker.com/game/*
 // @icon         https://www.criticker.com/favicon.ico
 // @license      MIT
